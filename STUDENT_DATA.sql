@@ -7,7 +7,7 @@ create table STUDENT_DATA (
 	email VARCHAR(150),
 	password VARCHAR(50)
 );
-insert into STUDENT_DATA (first_name, last_name, gender, country_name, email, password) values ('Ynez', 'Routham', 'Female', 'China', 'yroutham0@shutterfly.com', '5WGYl7');
+
 insert into STUDENT_DATA (first_name, last_name, gender, country_name, email, password) values ('Rene', 'Fallow', 'Female', 'Russia', 'rfallow1@gravatar.com', '6oooj1bh');
 insert into STUDENT_DATA (first_name, last_name, gender, country_name, email, password) values ('Emerson', 'Farey', 'Male', 'Portugal', 'efarey2@slideshare.net', 'fBZ898');
 insert into STUDENT_DATA (first_name, last_name, gender, country_name, email, password) values ('Burty', 'Wallsworth', 'Genderqueer', 'Poland', 'bwallsworth3@is.gd', 'WbCh9K5');
