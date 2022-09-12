@@ -1,0 +1,16 @@
+id = 3;
+name = meher;
+
+Employee employee = new Employee();
+id = 0
+name = null
+
+employee.setId(3);
+empoloyee.setname(meher);
+
+employee (id = 5, name = shivani)
+
+write in to a file
+
+empid = 5
+empName = shivani

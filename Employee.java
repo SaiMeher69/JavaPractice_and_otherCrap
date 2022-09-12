@@ -25,8 +25,6 @@ public class Employee{
             String content = scan.useDelimiter("\\Z").next();
             System.out.println(content);
             scan.close();
-           
-        
         }
         catch(FileNotFoundException e){
             System.out.println("File with that name not found");

@@ -1,0 +1,3449 @@
+{
+    "data": {
+      "providers": [
+        {
+          "name": "Acciona",
+          "slug": "acciona",
+          "website": "https://www.acciona-motosharing.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.acciona.mobility.app",
+            "ios": "https://itunes.apple.com/app/acciona-motosharing/id1431664935"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Aimo",
+          "slug": "aimo",
+          "website": "https://aimosolution.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.vulog.carshare.aimo",
+            "ios": "https://apps.apple.com/se/app/aimosolution/id1439787619"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR",
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "AirBie",
+          "slug": "airbie",
+          "website": "https://airbie.io",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.airbie",
+            "ios": "https://itunes.apple.com/app/id1406783864"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Appa",
+          "slug": "appa",
+          "website": "https://www.driveappa.de/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.appa.reactnative",
+            "ios": "https://itunes.apple.com/app/id1586020922"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Arboria Bike",
+          "slug": "arboriabike",
+          "website": "https://www.arboriabike.sk/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=cz.homeport.freebike",
+            "ios": "https://itunes.apple.com/app/freebike/id1241325286"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Atom",
+          "slug": "atom",
+          "website": "https://rideatom.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=rideatom.live",
+            "ios": "https://itunes.apple.com/app/id1457452822"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Avant",
+          "slug": "avant",
+          "website": "https://avant.fun/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=fun.avant.app",
+            "ios": "https://itunes.apple.com/app/id1515087569"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Avocargo",
+          "slug": "avocargo",
+          "website": "https://www.avocargo.one/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.avocargo.android",
+            "ios": "https://itunes.apple.com/app/id1570221120"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "BAEcobici",
+          "slug": "baecobici",
+          "website": "https://baecobici.com.ar/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.tembici.ecobici",
+            "ios": "https://itunes.apple.com/app/id1452339584"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "BAQME",
+          "slug": "baqme",
+          "website": "https://www.baqme.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.baqme.android",
+            "ios": "https://itunes.apple.com/app/id1538722828"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "BBBike",
+          "slug": "bbbike",
+          "website": "https://bbbike.eu/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=cz.homeport.freebike",
+            "ios": "https://itunes.apple.com/app/freebike/id1241325286"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bcycle",
+          "slug": "bcycle",
+          "website": "http://www.bcycle.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.bcycle",
+            "ios": "https://itunes.apple.com/app/bcycle/id371185597"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Beam",
+          "slug": "beam",
+          "website": "https://www.ridebeam.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.escooterapp",
+            "ios": "https://itunes.apple.com/app/id1427114484"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "BergenBysykkel",
+          "slug": "bergenbysykkel",
+          "website": "https://bergenbysykkel.no/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.urbansharing.citybike.bergen",
+            "ios": "https://apps.apple.com/app/bergen-bysykkel/id1242856965"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "BeRider",
+          "slug": "berider",
+          "website": "https://www.be-rider.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.berider.app",
+            "ios": "https://apps.apple.com/app/id1465804731"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Beryl",
+          "slug": "beryl",
+          "website": "https://beryl.cc",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=cc.beryl.basis",
+            "ios": "https://apps.apple.com/app/id1386768364"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bicikelj",
+          "slug": "bicikelj",
+          "website": "http://www.bicikelj.si/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bici Las Condes",
+          "slug": "bicilascondes",
+          "website": "https://www.bicilascondes.cl/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.smartbikeapp.chile",
+            "ios": "https://itunes.apple.com/app/id971017277"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "BiciMAD",
+          "slug": "bicimad",
+          "website": "https://www.bicimad.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.emtmadrid.bicimad.gestion2",
+            "ios": "https://itunes.apple.com/app/id1263402487"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bicing",
+          "slug": "bicing",
+          "website": "https://www.bicing.barcelona/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=cat.bcn.smoubcn",
+            "ios": "https://itunes.apple.com/app/id1439898721"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bicloo",
+          "slug": "bicloo",
+          "website": "https://www.bicloo.nantesmetropole.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.vls.nantes",
+            "ios": "https://apps.apple.com/app/id1414197331"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bike Chattanooga",
+          "slug": "bikechattanooga",
+          "website": "https://bikechattanooga.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bike Itaú",
+          "slug": "bikeitau",
+          "website": "https://bikeitau.com.br/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.cyclefinder.tembici",
+            "ios": "https://itunes.apple.com/app/id1270864475"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "BikeMi",
+          "slug": "bikemi",
+          "website": "https://www.bikemi.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.urbansharing.citybike.milan",
+            "ios": "https://itunes.apple.com/app/id989775845"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bike Share Toronto",
+          "slug": "bikesharetoronto",
+          "website": "https://bikesharetoronto.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Biki",
+          "slug": "biki",
+          "website": "https://gobiki.org/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=org.bikesharehawaii.biki",
+            "ios": "https://itunes.apple.com/app/id1248860125"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bird",
+          "slug": "bird",
+          "website": "https://www.bird.co/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=co.bird.android",
+            "ios": "https://itunes.apple.com/app/id1260842311"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "BIXI",
+          "slug": "bixi",
+          "website": "https://bixi.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.eightd.biximobile",
+            "ios": "https://itunes.apple.com/app/id628543321"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "BiziZaragoza",
+          "slug": "bizi",
+          "website": "https://www.bizizaragoza.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.zaragoza.bizi",
+            "ios": "https://itunes.apple.com/app/id600376274"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bleeper",
+          "slug": "bleeperbike",
+          "website": "https://www.bleeperactive.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=seat.code.giravolta.bleeper",
+            "ios": "https://itunes.apple.com/app/id1589047766"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Blinkee",
+          "slug": "blinkee",
+          "website": "https://blinkee.city",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pl.blinkee.mobile",
+            "ios": "https://itunes.apple.com/app/id1225700420"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "SCOOTER",
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Blip",
+          "slug": "blip",
+          "website": "https://www.blipscooters.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.blip.app",
+            "ios": "https://apps.apple.com/app/id1450819430"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Blue Bikes",
+          "slug": "bluebikes",
+          "website": "https://www.bluebikes.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.motivateco.hubway",
+            "ios": "https://itunes.apple.com/app/hubway/id1250203009"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "BlueSG",
+          "slug": "bluesg",
+          "website": "https://www.bluesg.com.sg/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.bluesg.androidapp",
+            "ios": "https://apps.apple.com/app/bluesg/id1313351301"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "CAR"
+          ]
+        },
+        {
+          "name": "Bolt",
+          "slug": "bolt",
+          "website": "http://bolt.eu/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=ee.mtakso.client",
+            "ios": "https://itunes.apple.com/app/id675033630"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "B Mobility",
+          "slug": "boltmobility",
+          "website": "https://www.micromobility.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.micromobility.bolt",
+            "ios": "https://itunes.apple.com/app/id1504716940"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Bond",
+          "slug": "bond",
+          "website": "https://bond.info/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=ch.smide.app",
+            "ios": "https://apps.apple.com/app/id1154109900"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Brite",
+          "slug": "brite",
+          "website": "https://www.brite.ie/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.sharedbike.brite",
+            "ios": "https://itunes.apple.com/app/id1474350856"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Bycyklen",
+          "slug": "bycyklen",
+          "website": "https://bycyklen.dk/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.vaimoo.bycyklen",
+            "ios": "https://itunes.apple.com/app/id1504234151"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Bydue",
+          "slug": "bydue",
+          "website": "https://www.bydue.no/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ryde_android",
+            "ios": "https://itunes.apple.com/app/id1495605028"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Bysykkel",
+          "slug": "bysykkel",
+          "website": "http://www.bysykkel.org/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Call a Bike",
+          "slug": "callabike",
+          "website": "https://www.callabike.de",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.bahn.callabike",
+            "ios": "https://itunes.apple.com/app/id420360589"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Cambio",
+          "slug": "cambio",
+          "website": "https://www.cambio.be",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.cambio.app",
+            "ios": "https://itunes.apple.com/app/id516627231"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": [
+            "CAR"
+          ]
+        },
+        {
+          "name": "Capital Bikeshare",
+          "slug": "capitalbikeshare",
+          "website": "https://www.capitalbikeshare.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.motivateco.capitalbikeshare",
+            "ios": "https://itunes.apple.com/app/capital-bikeshare/id1233403073"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Captain Bike",
+          "slug": "captainbike",
+          "website": "https://www.captainbike.fr",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.captainbike",
+            "ios": "https://itunes.apple.com/app/id1584650378"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE",
+            "SCOOTER"
+          ]
+        },
+        {
+          "name": "Car2Go",
+          "slug": "car2goil",
+          "website": "https://www.car2go.co.il/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=moveo.GoTo",
+            "ios": "https://itunes.apple.com/app/id1449036622"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR",
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "CAR",
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Careem",
+          "slug": "careem",
+          "website": "https://www.careem.com/en-ae/careem-bike/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.careem.bike",
+            "ios": "https://itunes.apple.com/app/id1491020032"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Cargoroo",
+          "slug": "cargoroo",
+          "website": "https://cargoroo.nl/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.cargoroo.app",
+            "ios": "https://itunes.apple.com/app/id1473579520"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "carvelo2go",
+          "slug": "carvelo2go",
+          "website": "https://www.carvelo2go.ch/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=ch.carvelo2go.app",
+            "ios": "https://itunes.apple.com/app/id1272672674"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Citi bike",
+          "slug": "citibike",
+          "website": "https://www.citibikenyc.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.citibikenyc.citibike",
+            "ios": "https://itunes.apple.com/app/citi-bike/id641194843"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Citybee",
+          "slug": "citybee",
+          "website": "https://www.citybee.lt/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.primeleasing.citybee",
+            "ios": "https://itunes.apple.com/app/id966537355"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "SCOOTER",
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "CityBikeLima",
+          "slug": "citybikelima",
+          "website": "https://www.citybikelima.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.choosit.smoovelima",
+            "ios": "https://apps.apple.com/app/citybike-lima/id1473100608"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "City bikes",
+          "slug": "citybikeshelsinki",
+          "website": "https://www.hsl.fi/en/citybikes/helsinki",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=fi.hsl.app",
+            "ios": "https://itunes.apple.com/app/id1340229182"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "CityBikesTampereen",
+          "slug": "citybikestampereen",
+          "website": "https://www.nysse.fi/kaupunkipyorat.html",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=seat.code.giravolta.inurbatampere",
+            "ios": "https://itunes.apple.com/app/id1614211287"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "City Bikes Vantaa",
+          "slug": "citybikesvantaa",
+          "website": "https://www.hsl.fi/en/citybikes/vantaa",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=fi.hsl.app",
+            "ios": "https://itunes.apple.com/app/id1340229182"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "CityCycle",
+          "slug": "citycycle",
+          "website": "http://www.citycycle.com.au/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "cityflitzer",
+          "slug": "cityflitzer",
+          "website": "https://www.cityflitzer.de/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.cityflitzer.m",
+            "ios": "https://itunes.apple.com/app/id1335998302"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Cityscoot",
+          "slug": "cityscoot",
+          "website": "https://www.cityscoot.eu/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.livebanner.cityscoot",
+            "ios": "https://itunes.apple.com/app/id1011202160"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "CoGo",
+          "slug": "cogo",
+          "website": "https://www.cogobikeshare.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=me.lyft.android",
+            "ios": "https://itunes.apple.com/app/id529379082"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Co-Wheels",
+          "slug": "cowheels",
+          "website": "https://www.co-wheels.org.uk/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=uk.org.cowheels",
+            "ios": "https://itunes.apple.com/app/id1235670224"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "CAR"
+          ]
+        },
+        {
+          "name": "Cristolib",
+          "slug": "cristolib",
+          "website": "http://www.cristolib.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "C.vélo",
+          "slug": "cvelo",
+          "website": "https://www.c-velo.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://apps.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Cyclic",
+          "slug": "cyclic",
+          "website": "http://cyclic.rouen.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "CyclOcity-Toyama",
+          "slug": "cyclocitytoyama",
+          "website": "http://www.cyclocity.jp/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "CyclOcity Vilnius",
+          "slug": "cyclocityvilnius",
+          "website": "https://www.cyclocity.lt/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Cyclovis",
+          "slug": "cyclovis",
+          "website": "https://cyclovis.ecovelo.mobi",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.cyclovis",
+            "ios": "https://itunes.apple.com/app/id1563864402"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "DiviaVélodi",
+          "slug": "diviavelodi",
+          "website": "https://www.divia.fr/page/diviavelodi",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.dklik.divia",
+            "ios": "https://apps.apple.com/app/divia/id488672431"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Divvy",
+          "slug": "divvy",
+          "website": "https://www.divvybikes.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.motivateco.chicagoapp",
+            "ios": "https://itunes.apple.com/app/divvy-bikes/id1369992600"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Donkey Republic",
+          "slug": "donkey",
+          "website": "https://www.donkey.bike/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.donkeyrepublic.bike.android",
+            "ios": "https://itunes.apple.com/app/id933526449"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE",
+            "SCOOTER"
+          ]
+        },
+        {
+          "name": "Dott",
+          "slug": "dott",
+          "website": "https://ridedott.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ridedott.rider",
+            "ios": "https://apps.apple.com/app/id1440301673"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Drammen Bysykler",
+          "slug": "drammenbysykler",
+          "website": "https://www.drammenbysykler.no/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.smartbikeapp.drammen",
+            "ios": "https://itunes.apple.com/app/id1355753492"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Drivio",
+          "slug": "drivio",
+          "website": "https://www.drivio.it/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=drivio.app",
+            "ios": "https://itunes.apple.com/app/id1560811226"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Dublinbikes",
+          "slug": "dublinbikes",
+          "website": "http://www.dublinbikes.ie/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.vls.dublin",
+            "ios": "https://apps.apple.com/app/just-eat-dublinbikes/id1539150180"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Easy Way",
+          "slug": "easyway",
+          "website": "https://www.oeamtc.at/thema/motorrad-moped/oeamtc-easy-way-sharing-26012630",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.easyway.app",
+            "ios": "https://itunes.apple.com/app/id1504845461"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "EcoBici",
+          "slug": "ecobici",
+          "website": "https://www.ecobici.cdmx.gob.mx/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.smartbikeapp.ecobici",
+            "ios": "https://itunes.apple.com/app/id964899796"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Cooltra",
+          "slug": "ecooltra",
+          "website": "https://www.ecooltra.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.mobime.ecooltra",
+            "ios": "https://itunes.apple.com/app/id1083424977"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER",
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Eddy",
+          "slug": "eddy",
+          "website": "https://www.swd-ag.de/mobilitaet/elektromobilitaet/e-roller-mieten/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.eddy.app",
+            "ios": "https://itunes.apple.com/app/id1265253189"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "EdinburghCycleHire",
+          "slug": "edinburghcyclehire",
+          "website": "https://edinburghcyclehire.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=no.urbansharing.citybike.edinburgh",
+            "ios": "https://apps.apple.com/app/id1392902745"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "edrive carsharing",
+          "slug": "edrivecarsharing",
+          "website": "https://edrivecarsharing.ch/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.zemtu.edrive",
+            "ios": "https://itunes.apple.com/app/id1538587480"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "CAR"
+          ]
+        },
+        {
+          "name": "e-floater",
+          "slug": "efloater",
+          "website": "https://www.e-floater.com",
+          "app": {
+            "android": null,
+            "ios": null
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Elo",
+          "slug": "elo",
+          "website": "http://eloscooters.pl/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=elo.app",
+            "ios": "https://itunes.apple.com/app/id1519264463"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Eloop",
+          "slug": "eloop",
+          "website": "https://eloop.at",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.vulog.carshare.eloop",
+            "ios": "https://itunes.apple.com/app/id1465221970"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Emmy",
+          "slug": "emmy",
+          "website": "https://emmy-sharing.de/en/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.emio.android",
+            "ios": "https://itunes.apple.com/app/emmy/id980900815"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Enjoy",
+          "slug": "enjoy",
+          "website": "https://enjoy.eni.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.eni.enjoy",
+            "ios": "https://itunes.apple.com/app/id780315684"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "e-Vélobleu",
+          "slug": "evelobleu",
+          "website": "https://www.velobleu.org/le-e-velobleu/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.vulog.carshare.ff.transdev.prod",
+            "ios": "https://apps.apple.com/app/id1584959320"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "evo-Sharing",
+          "slug": "evosharing",
+          "website": "https://evo-sharing.ruhr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.evo.sharing.app",
+            "ios": "https://itunes.apple.com/app/id1351351537"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "FAST",
+          "slug": "fast",
+          "website": "https://www.fastmobility.it/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=fast.app",
+            "ios": "https://itunes.apple.com/app/id1537082328"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Felyx",
+          "slug": "felyx",
+          "website": "https://felyx.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.felyx.android",
+            "ios": "https://apps.apple.com/app/id1250107307"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Fenix",
+          "slug": "fenix",
+          "website": "https://fenix.life/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=life.fenix.sharing.app",
+            "ios": "https://itunes.apple.com/app/id1530199872"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Fetch",
+          "slug": "fetch",
+          "website": "https://fetchcarsharing.nl",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=nl.elc.Fetch",
+            "ios": "https://itunes.apple.com/app/id1446453908"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Fiqsy",
+          "slug": "fiqsy",
+          "website": "https://www.fiqsy.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.fitsypro.fiqsy",
+            "ios": "https://itunes.apple.com/app/id1457555913"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Flinkster",
+          "slug": "flinkster",
+          "website": "https://www.flinkster.de",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.bahn.flinkster",
+            "ios": "https://itunes.apple.com/app/id421390893"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "CAR"
+          ]
+        },
+        {
+          "name": "Franke",
+          "slug": "franke",
+          "website": "https://frank-e-sharing.de/home.html",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.franke.app",
+            "ios": "https://apps.apple.com/app/id1460153989"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Free2Move",
+          "slug": "free2move",
+          "website": "https://free2move.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.free2move.app",
+            "ios": "https://itunes.apple.com/app/id1497508380"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Freebike",
+          "slug": "freebike",
+          "website": "https://freebike.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=cz.homeport.freebike",
+            "ios": "https://itunes.apple.com/app/freebike/id1241325286"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Frog",
+          "slug": "frog",
+          "website": "https://www.frogmobility.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.frog.ride",
+            "ios": "https://apps.apple.com/app/id1447811533"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Get Around",
+          "slug": "getaround",
+          "website": "https://www.getaround.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.c4mprod.voiturelib",
+            "ios": "https://apps.apple.com/app/id492238016"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "GIG Car Share",
+          "slug": "gigcarshare",
+          "website": "https://gigcarshare.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.gigcarshare",
+            "ios": "https://itunes.apple.com/app/id1221568885"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Ginger",
+          "slug": "ginger",
+          "website": "https://www.ginger.town/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ginger.android",
+            "ios": "https://itunes.apple.com/app/id1457963173"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": [
+            "SCOOTER"
+          ]
+        },
+        {
+          "name": "Gira",
+          "slug": "gira",
+          "website": "https://www.gira-bicicletasdelisboa.pt/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pt.emel.bikeshare",
+            "ios": "https://itunes.apple.com/app/id1229177768"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "GoCar",
+          "slug": "gocar",
+          "website": "https://www.gocar.ie/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.GoCarDev",
+            "ios": "https://itunes.apple.com/app/id558486768"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "CAR"
+          ]
+        },
+        {
+          "name": "GOSharing",
+          "slug": "gosharing",
+          "website": "https://go-sharing.nl/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=nl.gosharing.gourban.app",
+            "ios": "https://itunes.apple.com/app/id1477465763"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "SCOOTER",
+            "MOTORSCOOTER",
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Gotcha",
+          "slug": "gotcha",
+          "website": "https://ridegotcha.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.gotcha.gotchascooters",
+            "ios": "https://itunes.apple.com/app/id1482058975"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "GoTo",
+          "slug": "goto",
+          "website": "https://www.goto.com.mt/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=moveo.GoTo.malta",
+            "ios": "https://itunes.apple.com/app/id1455817170"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER",
+            "SCOOTER",
+            "CAR"
+          ],
+          "stationVehicleTypes": [
+            "MOTORSCOOTER",
+            "SCOOTER",
+            "CAR"
+          ]
+        },
+        {
+          "name": "Green Bike",
+          "slug": "greenbike",
+          "website": "https://greenbikearuba.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "GreenGo",
+          "slug": "greengo",
+          "website": "https://greengo.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.GreenGo",
+            "ios": "https://apps.apple.com/app/id1124380615"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "GreenMobility",
+          "slug": "greenmobility",
+          "website": "https://greenmobility.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.greenmobility.app",
+            "ios": "https://itunes.apple.com/app/id1487639988"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Greenwheels",
+          "slug": "greenwheels",
+          "website": "https://www.greenwheels.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.greenwheels",
+            "ios": "https://apps.apple.com/app/id513239812"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Helbiz",
+          "slug": "helbiz",
+          "website": "https://helbiz.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.helbiz.android",
+            "ios": "https://itunes.apple.com/app/id1438844293?mt=8"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Hellobike",
+          "slug": "hellobike",
+          "website": "http://www.hellobike.com/",
+          "app": {
+            "android": null,
+            "ios": null
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "HIBike",
+          "slug": "hibike",
+          "website": "https://hawaiiislandbikeshare.org/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "HighSpeedService",
+          "slug": "highspeedservice",
+          "website": "https://highspeedservice.ch/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.highspeedservice.app",
+            "ios": "https://itunes.apple.com/app/id1521264878"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "HTM Fiets",
+          "slug": "htmfiets",
+          "website": "https://www.htm.nl/ons-vervoer/htm-fiets",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.htm.android",
+            "ios": "https://itunes.apple.com/app/id1457532368"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "HumanForest",
+          "slug": "humanforest",
+          "website": "https://humanforest.co.uk/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.humanforest.app",
+            "ios": "https://itunes.apple.com/app/id1496360801"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Iberscot",
+          "slug": "iberscot",
+          "website": "https://iberscot.net/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=net.iberscot.app",
+            "ios": "https://itunes.apple.com/app/id1513924750"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "IDEcycle",
+          "slug": "idecycle",
+          "website": "https://www.idelis.fr/se-deplacer/velos-idecycle/le-velo-en-libre-service",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.actigraph.idelis.tabbarapp",
+            "ios": "https://apps.apple.com/app/idelis/id405038005"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "isbike",
+          "slug": "isbike",
+          "website": "https://www.isbike.istanbul/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=tr.gov.ibb.isbikeNew",
+            "ios": "https://itunes.apple.com/app/id1441954616"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "IsraBike",
+          "slug": "israbike",
+          "website": "https://www.facebook.com/IsraBike/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.gesila.israbike",
+            "ios": "https://itunes.apple.com/us/app/id1291237814"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "I'Velo",
+          "slug": "ivelo",
+          "website": "https://ivelo.ro/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.greenrevolution.ivelo",
+            "ios": "https://itunes.apple.com/app/id995176693"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE",
+            "SCOOTER"
+          ]
+        },
+        {
+          "name": "Jungo",
+          "slug": "jungo",
+          "website": "https://en.jungo.lv/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=jungo.app",
+            "ios": "https://itunes.apple.com/app/id1500010184"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Knot",
+          "slug": "knot",
+          "website": "https://www.knotcity.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=city.knot.knotapp",
+            "ios": "https://itunes.apple.com/app/id1206004471"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "SCOOTER"
+          ]
+        },
+        {
+          "name": "Kolumbus",
+          "slug": "kolumbus",
+          "website": "https://www.kolumbus.no/en/travel/bicycle/bysykkelen/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=no.kolumbus.kolumbusbillett",
+            "ios": "https://itunes.apple.com/app/id1286715202"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "La Baule",
+          "slug": "labaule",
+          "website": "https://labaule.ecovelo.mobi",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.labaule",
+            "ios": "https://itunes.apple.com/app/id1405493718"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Le Marcel",
+          "slug": "lemarcel",
+          "website": "https://lemarcel.ecovelo.mobi",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.lemarcel",
+            "ios": "https://itunes.apple.com/app/id1573405461"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Leo&Go!",
+          "slug": "leogo",
+          "website": "https://www.leoandgo.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.vulog.leo.and.go",
+            "ios": "https://itunes.apple.com/app/id1573751084"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "levélo",
+          "slug": "levelo",
+          "website": "http://www.levelo-mpm.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Libélo",
+          "slug": "libelo",
+          "website": "https://www.vrd-mobilites.fr/velo/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Li Bia Vélo",
+          "slug": "libiavelo",
+          "website": "http://www.libiavelo.be/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Lime",
+          "slug": "lime",
+          "website": "https://www.li.me/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.limebike",
+            "ios": "https://itunes.apple.com/app/id1199780189"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "SCOOTER",
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Superpedestrian",
+          "slug": "link",
+          "website": "https://superpedestrian.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.superpedestrian.link",
+            "ios": "https://itunes.apple.com/app/id1487864428"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "LouVelo",
+          "slug": "louvelo",
+          "website": "https://louvelo.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Lundahoj",
+          "slug": "lundahoj",
+          "website": "http://lundahoj.se/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Lyft",
+          "slug": "lyft",
+          "website": "https://www.lyft.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=me.lyft.android",
+            "ios": "https://apps.apple.com/app/id529379082"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Malmö by bike",
+          "slug": "malmobybike",
+          "website": "https://www.malmobybike.se",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.smartbikeapp.malmo",
+            "ios": "https://itunes.apple.com/app/id1087062544"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Marseillan",
+          "slug": "marseillan",
+          "website": "https://marseillan.ecovelo.mobi",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.marseillan",
+            "ios": "https://itunes.apple.com/app/id1460386646"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "MedinaBike",
+          "slug": "medinabike",
+          "website": "https://medinabike.ma/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.choosit.smoovemedina",
+            "ios": "https://apps.apple.com/app/medina-bike/id1167387732"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "MiBici",
+          "slug": "mibici",
+          "website": "https://www.mibici.net",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=net.mibici.jalisco",
+            "ios": "https://itunes.apple.com/app/id1552834447"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Mimoto",
+          "slug": "mimoto",
+          "website": "https://mimoto.it/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=it.mimoto.android",
+            "ios": "https://apps.apple.com/app/id1258546477"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Mobility",
+          "slug": "mobility",
+          "website": "https://www.mobility.ch/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=ch.mobility.mobidroid.main",
+            "ios": "https://itunes.apple.com/app/id362028864"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": [
+            "CAR"
+          ]
+        },
+        {
+          "name": "Mobilize Share",
+          "slug": "mobilizeshare",
+          "website": "https://share.mobilize.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.rcimobility.renaultmobility.b2c",
+            "ios": "https://itunes.apple.com/app/id1189566096"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "MobiShawGo",
+          "slug": "mobishawgo",
+          "website": "https://www.mobibikes.ca/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.choosit.smoove",
+            "ios": "https://apps.apple.com/app/mobi-vancouver-bike-share/id1076524221"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "MOBY",
+          "slug": "moby",
+          "website": "https://www.mobybikes.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.mobymove.app",
+            "ios": "https://itunes.apple.com/app/id1485536623"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "MoGo",
+          "slug": "mogo",
+          "website": "https://mogodetroit.org/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "MOL Bubi",
+          "slug": "molbubi",
+          "website": "https://molbubi.hu",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=net.nextbike.bkk.molbubi",
+            "ios": "https://itunes.apple.com/app/id916249357"
+          },
+          "freefloatingVehiclesTypes": [],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "MOL Limo",
+          "slug": "mollimo",
+          "website": "https://www.mollimo.hu/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.vulog.carshare.mol",
+            "ios": "https://itunes.apple.com/app/id1289660642"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "MonaBike",
+          "slug": "monabike",
+          "website": "https://monabike.mc/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=group.flowbird.monaco",
+            "ios": "https://itunes.apple.com/app/id1542802881"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Moow",
+          "slug": "moow",
+          "website": "https://www.moow.me/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=moownat.android.app",
+            "ios": "https://itunes.apple.com/app/id1456728120"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "MoVe Scooter Rental",
+          "slug": "movescooterrental",
+          "website": "https://movescooters.ca",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=move.mobility.app",
+            "ios": "https://itunes.apple.com/app/id1632973735"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "RideMovi",
+          "slug": "movi",
+          "website": "https://www.ridemovi.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ridemovi.app",
+            "ios": "https://itunes.apple.com/app/id1503536800"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "MVG Rad",
+          "slug": "mvgrad",
+          "website": "https://www.mvg.de/services/mobile-services/mvg-rad.html",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.mvg.more",
+            "ios": "https://itunes.apple.com/app/id991757585"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Neon Scooters",
+          "slug": "neonscooters",
+          "website": "https://neonride.pl/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=neonscooters.app",
+            "ios": "https://itunes.apple.com/app/id1610764245"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Neuron",
+          "slug": "neuron",
+          "website": "https://www.rideneuron.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.hhyu.neuron",
+            "ios": "https://itunes.apple.com/app/id1240649186"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Nextbike",
+          "slug": "nextbike",
+          "website": "https://www.nextbike.net/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.nextbike",
+            "ios": "https://itunes.apple.com/app/id504288371"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Nice Ride",
+          "slug": "niceride",
+          "website": "https://www.niceridemn.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.eightd.nrm",
+            "ios": "https://itunes.apple.com/app/nice-ride-bike-share/id1114134866"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "OIZ",
+          "slug": "oiz",
+          "website": "https://oizbike.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.oizbike.app",
+            "ios": "https://itunes.apple.com/app/id1525687104"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "OsloBysykkel",
+          "slug": "oslobysykkel",
+          "website": "https://oslobysykkel.no/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=no.urbaninfrastructure.bysykkel",
+            "ios": "https://apps.apple.com/app/oslo-bysykkel/id1092618048"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "OV-fiets",
+          "slug": "ovfiets",
+          "website": "https://www.ns.nl/en/door-to-door/ov-fiets",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=nl.ns.android.activity",
+            "ios": "https://itunes.apple.com/app/id370362301"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Pick-e-Bike",
+          "slug": "pickebike",
+          "website": "https://www.pickebike.ch/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=ch.pickebike",
+            "ios": "https://itunes.apple.com/app/id1373747610"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Playcar",
+          "slug": "playcar",
+          "website": "https://www.playcar.net/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.playmoove.playcar3",
+            "ios": "https://itunes.apple.com/app/id1226409613"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "CAR"
+          ],
+          "stationVehicleTypes": [
+            "BIKE",
+            "CAR"
+          ]
+        },
+        {
+          "name": "Pony",
+          "slug": "pony",
+          "website": "http://getapony.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=co.ponybikes.mercury",
+            "ios": "https://itunes.apple.com/app/id1273866794"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Poppy",
+          "slug": "poppy",
+          "website": "https://poppy.be",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.gopoppy.app",
+            "ios": "https://apps.apple.com/app/id1503328765"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "MOTORSCOOTER",
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Qick",
+          "slug": "qick",
+          "website": "https://www.qickscooters.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=qickscooters.app",
+            "ios": "https://itunes.apple.com/app/id1480390337"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Reby",
+          "slug": "reby",
+          "website": "https://reby.co/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=co.reby.app",
+            "ios": "https://apps.apple.com/app/id1444753869"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "MOTORSCOOTER",
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Rekola",
+          "slug": "rekola",
+          "website": "https://www.rekola.cz/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=cz.rekola.app",
+            "ios": "https://apps.apple.com/app/id888759232"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Rent a Bike",
+          "slug": "rentabike",
+          "website": "https://www.rentabike.ch/",
+          "app": {
+            "android": null,
+            "ios": null
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Revel",
+          "slug": "revel",
+          "website": "https://gorevel.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.reveltransit",
+            "ios": "https://itunes.apple.com/app/id1410368210"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Rhingo",
+          "slug": "rhingo",
+          "website": "https://www.rhingo.de/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.rhingo.app",
+            "ios": "https://itunes.apple.com/app/id1470053532"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "RIDE",
+          "slug": "ride",
+          "website": "https://ridemobility.eu/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=ride.app",
+            "ios": "https://itunes.apple.com/app/id1522014903"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Rubis'Vélo",
+          "slug": "rubisvelo",
+          "website": "https://rubis.ecovelo.mobi/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.rubis",
+            "ios": "https://itunes.apple.com/app/id1471666921"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Ryde",
+          "slug": "ryde",
+          "website": "https://www.ryde-technology.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ryde_android",
+            "ios": "https://itunes.apple.com/app/id1495605028"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Santander Cycles",
+          "slug": "santandercycles",
+          "website": "https://tfl.gov.uk/modes/cycling/santander-cycles",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=uk.gov.tfl.cyclehire",
+            "ios": "https://itunes.apple.com/app/id974792287"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "SEAT MÓtosharing",
+          "slug": "seatmotosharing",
+          "website": "https://www.seat.es/sobre-seat/seat-mo/motosharing.html",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=seat.code.emobility.seatmo",
+            "ios": "https://itunes.apple.com/app/id1497902704"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Semo Vélo",
+          "slug": "semovelo",
+          "website": "https://semo.ecovelo.mobi",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.semo",
+            "ios": "https://itunes.apple.com/app/id1576360211"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Sevici",
+          "slug": "sevici",
+          "website": "http://www.sevici.es/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "ShareBike",
+          "slug": "sharebike",
+          "website": "https://sharebike.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ryde_android",
+            "ios": "https://itunes.apple.com/app/id1495605028"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Share Now",
+          "slug": "sharenow",
+          "website": "https://www.share-now.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.car2go",
+            "ios": "https://itunes.apple.com/app/id514921710"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "sigo",
+          "slug": "sigo",
+          "website": "https://sigo.green/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.sigo.app",
+            "ios": "https://itunes.apple.com/app/id1492307478"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Skok",
+          "slug": "skok",
+          "website": "https://skoksharing.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.skoksharing.app",
+            "ios": "https://itunes.apple.com/app/id1480384239"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Social Bicycles",
+          "slug": "socialbicycles",
+          "website": "http://socialbicycles.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.socialbicycles.app",
+            "ios": "https://itunes.apple.com/app/social-bicycles/id641497286"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "SPARK",
+          "slug": "spark",
+          "website": "https://espark.lt",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=lt.mediapark.rideshare",
+            "ios": "https://itunes.apple.com/app/id1095645824"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Spin",
+          "slug": "spin",
+          "website": "https://www.spin.pm",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pm.spin",
+            "ios": "https://itunes.apple.com/app/id1241808993"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Splash",
+          "slug": "splash",
+          "website": "https://ridesplash.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.splash.scooters",
+            "ios": "https://itunes.apple.com/app/id1483195055"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "stadtflitzer",
+          "slug": "stadtflitzer",
+          "website": "https://stadtflitzer.de/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.cantamen.stadtmobil",
+            "ios": "https://itunes.apple.com/app/id1088313783"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "stadtmobil",
+          "slug": "stadtmobil",
+          "website": "https://www.stadtmobil.de/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.cantamen.stadtmobil",
+            "ios": "https://itunes.apple.com/app/id1088313783"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE",
+            "CAR"
+          ]
+        },
+        {
+          "name": "StadtRAD",
+          "slug": "stadtrad",
+          "website": "https://stadtrad.hamburg.de",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.stadtrad.hamburg",
+            "ios": "https://itunes.apple.com/app/id420441561"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "STAR",
+          "slug": "star",
+          "website": "https://www.star.fr/le-velo",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.keolisrennes.starmobilites",
+            "ios": "https://apps.apple.com/app/star-lappli/id1237675720"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Stella",
+          "slug": "stella",
+          "website": "https://www.stella-sharing.de/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.stella.app",
+            "ios": "https://itunes.apple.com/app/id1136698323"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Stockholm eBikes",
+          "slug": "stockholmebikes",
+          "website": "https://stockholmebikes.se/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=seat.code.giravolta.inurbastockholm",
+            "ios": "https://itunes.apple.com/app/id1613950557"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "SURF",
+          "slug": "surf",
+          "website": "https://surfingscooters.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.surfingscooters.surfapp",
+            "ios": "https://itunes.apple.com/app/id1583799691"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "SWK KRuiser",
+          "slug": "swkkruiser",
+          "website": "https://www.swk.de/privatkunden/mobilitaet/sharing-und-emobility/kruiser",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.kruiser.app",
+            "ios": "https://itunes.apple.com/app/id1413679115"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Tempo Vélo",
+          "slug": "tempovelo",
+          "website": "https://tempovelo.ecovelo.mobi/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.tempovelo",
+            "ios": "https://itunes.apple.com/app/id1518113480"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "TIER",
+          "slug": "tier",
+          "website": "https://www.tier.app/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.tier.app",
+            "ios": "https://itunes.apple.com/app/tier/id1436140272"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "MOTORSCOOTER",
+            "BIKE"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "TiMove",
+          "slug": "timove",
+          "website": "https://www.timove.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.eccocar.timovemobility.app",
+            "ios": "https://itunes.apple.com/app/id1531304832"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "TLP Mobilités",
+          "slug": "tlpmobilites",
+          "website": "https://tlpmobilites.ecovelo.mobi/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.tlpmobilites",
+            "ios": "https://itunes.apple.com/app/id1533773072"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "[TO]Bike",
+          "slug": "tobike",
+          "website": "http://www.tobike.it",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.batsharing.android.urbibicitta",
+            "ios": "https://itunes.apple.com/app/id472750001"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Torvelo",
+          "slug": "torvelo",
+          "website": "https://www.torvelo.pl/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=cz.homeport.freebike",
+            "ios": "https://itunes.apple.com/app/freebike/id1241325286"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Tretty",
+          "slug": "tretty",
+          "website": "https://www.tretty.de/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=de.tretty.app",
+            "ios": "https://itunes.apple.com/app/id1509734922"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE",
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "TrondheimCityBike",
+          "slug": "trondheimcitybike",
+          "website": "https://trondheimbysykkel.no/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=no.urbaninfrastructure.bysykkel.trondheim",
+            "ios": "https://apps.apple.com/app/trondheim-bysykkel-for-iphone/id1369123147"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Troopy",
+          "slug": "troopy",
+          "website": "https://www.troopy.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.vulog.carshare.troopy",
+            "ios": "https://apps.apple.com/app/id1371462603"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "TuCycleBarcelona",
+          "slug": "tucyclebarcelona",
+          "website": "https://tucycle.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=bike.tucycle.app",
+            "ios": "https://itunes.apple.com/app/id1525689400"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Tugo",
+          "slug": "tugo",
+          "website": "https://tugobikeshare.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Tuo Mobility",
+          "slug": "tuomobility",
+          "website": "https://www.tuomobility.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=tuo.app",
+            "ios": "https://itunes.apple.com/app/id1566704458"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "TusBic",
+          "slug": "tusbic",
+          "website": "http://www.tusbic.es/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Tuul",
+          "slug": "tuul",
+          "website": "https://www.tuul.xyz/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.comodule.fleet",
+            "ios": "https://itunes.apple.com/app/id1502823143"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Twiga",
+          "slug": "twiga",
+          "website": "https://www.enjoytwiga.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=twiga.app",
+            "ios": "https://itunes.apple.com/app/id1518026169"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Ubeeqo",
+          "slug": "ubeeqo",
+          "website": "https://www.ubeeqo.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ubeeqo.mobilities",
+            "ios": "https://apps.apple.com/app/id1174329790"
+          },
+          "freefloatingVehiclesTypes": [],
+          "stationVehicleTypes": [
+            "CAR"
+          ]
+        },
+        {
+          "name": "UnGiro",
+          "slug": "ungiro",
+          "website": "https://www.ungiro.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.playmoove.ungiro",
+            "ios": "https://itunes.apple.com/app/id1519400872"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR",
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": [
+            "MOTORSCOOTER",
+            "CAR"
+          ]
+        },
+        {
+          "name": "Urbee",
+          "slug": "urbee",
+          "website": "https://urbee.nl/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=nl.urbee.app",
+            "ios": "https://itunes.apple.com/app/id1462174799"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "VAIMOO",
+          "slug": "vaimoo",
+          "website": "https://www.vaimoo.app/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.vaimoo.rider",
+            "ios": "https://itunes.apple.com/app/id1538922089"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Valenbisi",
+          "slug": "valenbisi",
+          "website": "http://www.valenbisi.es/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "V3",
+          "slug": "vcub",
+          "website": "https://www.infotbm.com/fr/v3",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.infotbm.tbm",
+            "ios": "https://apps.apple.com/app/tbm-tram-bus-bat3-v3-p-r/id1492096341"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Vélam",
+          "slug": "velam",
+          "website": "http://www.velam.amiens.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Velect'in",
+          "slug": "velectin",
+          "website": "https://velectin.ecovelo.mobi",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.velectin",
+            "ios": "https://itunes.apple.com/app/id1494694428"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Velespeed",
+          "slug": "velespeed",
+          "website": "https://velespeed.net/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Velib",
+          "slug": "velib",
+          "website": "https://www.velib-metropole.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.paris.velib",
+            "ios": "https://apps.apple.com/app/id577807727"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Vélitul",
+          "slug": "velitul",
+          "website": "https://portail.cykleo.fr/velitul/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=fr.tul.adm",
+            "ios": "https://apps.apple.com/app/tul-laval/id1069887708"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Velivert",
+          "slug": "velivert",
+          "website": "https://www.velivert.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.choosit.smoovevelivert",
+            "ios": "https://apps.apple.com/app/v%C3%A9livert/id1247387635"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "VélÔ",
+          "slug": "velo",
+          "website": "http://www.velo.toulouse.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "VelO2",
+          "slug": "velo2",
+          "website": "http://www.velo2.cergypontoise.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Velo Antwerpen",
+          "slug": "veloantwerpen",
+          "website": "https://www.velo-antwerpen.be",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=be.antwerpen.velo",
+            "ios": "https://itunes.apple.com/app/id534476508"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Vélobleu",
+          "slug": "velobleu",
+          "website": "https://www.velobleu.org/le-velobleu/",
+          "app": {
+            "android": null,
+            "ios": null
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Veloceo",
+          "slug": "veloceo",
+          "website": "https://veloceo.kiceo.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.choosit.smoovevannes",
+            "ios": "https://apps.apple.com/app/v%C3%A9loc%C3%A9o/id1389748558"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "VéloCité Mulhouse",
+          "slug": "velocite",
+          "website": "https://www.compte-mobilite.fr/services/velos-en-libre-service/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=fr.cityway.mulhouse",
+            "ios": "https://apps.apple.com/app/compte-mobilit%C3%A9/id1228516259"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "VéloCité Besancon",
+          "slug": "velocitebesancon",
+          "website": "http://www.velocite.besancon.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Vélo'Cité",
+          "slug": "velocitelaon",
+          "website": "https://velocite.ecovelo.mobi/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.velocite",
+            "ios": "https://itunes.apple.com/app/id1542354390"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "vel’OH!",
+          "slug": "veloh",
+          "website": "https://myveloh.lu/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.vls.luxembourg",
+            "ios": "https://apps.apple.com/app/veloh-official/id1414204999"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Vélolib",
+          "slug": "velolib",
+          "website": "https://www.twisto.fr/reseau-twisto/nos-mobilites/twisto-velo/velolib.html",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.actigraph.twisto.tabbarapp",
+            "ios": "https://apps.apple.com/app/twisto/id592996452"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Vélomagg",
+          "slug": "velomagg",
+          "website": "https://www.tam-voyages.com/presentation/?rub_code=1&thm_id=24",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.micropole.android.tam",
+            "ios": "https://apps.apple.com/app/tam/id1109993682"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Vélo'+",
+          "slug": "veloplus",
+          "website": "https://portail.cykleo.fr/TAO_velos",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=fr.tao.adm",
+            "ios": "https://apps.apple.com/app/tao-orleans/id1029503452"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Velopop",
+          "slug": "velopop",
+          "website": "https://www.velopop.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.choosit.velopop",
+            "ios": "https://apps.apple.com/app/velopop/id1465110989"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "VélOstan’lib",
+          "slug": "velostanlib",
+          "website": "http://www.velostanlib.fr/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.allbikesnow",
+            "ios": "https://apps.apple.com/app/allbikesnow/id333176106"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Vélo Tanlib",
+          "slug": "velotanlib",
+          "website": "https://tanlib.ecovelo.mobi",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.tanlib",
+            "ios": "https://itunes.apple.com/app/id1494721907"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Vélo'v",
+          "slug": "velov",
+          "website": "https://velov.grandlyon.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.vls.lyon",
+            "ios": "https://apps.apple.com/app/id1356108037"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "VélYcéo",
+          "slug": "velyceo",
+          "website": "https://velyceo.ecovelo.mobi",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.velyceo",
+            "ios": "https://itunes.apple.com/app/id1561329566"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Verona Bike",
+          "slug": "veronabike",
+          "website": "https://bikeverona.it",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.urbansharing.citybike.verona",
+            "ios": "https://itunes.apple.com/app/id1495050516"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "VIA Vélo",
+          "slug": "viavelo",
+          "website": "https://viavelo.ecovelo.mobi/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.viavelo",
+            "ios": "https://itunes.apple.com/app/id1543229089"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Villo!",
+          "slug": "villo",
+          "website": "https://www.villo.be/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.jcdecaux.vls.bruxelles",
+            "ios": "https://apps.apple.com/app/villo-officiel/id1461467617"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "V'lille",
+          "slug": "vlille",
+          "website": "https://www.ilevia.fr/cms/vlille/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.transpole.mobi",
+            "ios": "https://apps.apple.com/app/id429143032"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Voi",
+          "slug": "voi",
+          "website": "https://voiscooters.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=io.voiapp.voi",
+            "ios": "https://itunes.apple.com/app/id1395921017"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Vybil",
+          "slug": "vybil",
+          "website": "https://www.vy.no/en/travelling-with-us/other-modes-of-transport/vybil",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.vulog.carshare.ff.vy.prod",
+            "ios": "https://itunes.apple.com/app/id1516478381"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "WE-cycle",
+          "slug": "wecycle",
+          "website": "https://www.we-cycle.org/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "WeShare",
+          "slug": "weshare",
+          "website": "https://www.we-share.io/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.we.weshare",
+            "ios": "https://apps.apple.com/app/id1450910797"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Wheels",
+          "slug": "wheels",
+          "website": "https://www.wheels.co/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.getwheelsapp.wheels",
+            "ios": "https://apps.apple.com/app/id1436122530"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Whizascoot",
+          "slug": "whizascoot",
+          "website": "https://www.whizascoot.mt/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.whizascoot.reactnative.app",
+            "ios": "https://itunes.apple.com/app/id1465145985"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER",
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Wible",
+          "slug": "wible",
+          "website": "https://www.wible.es/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.vulog.carshare.kia",
+            "ios": "https://apps.apple.com/app/id1407339605"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Wind",
+          "slug": "wind",
+          "website": "https://www.wind.co/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.zen.zbike",
+            "ios": "https://itunes.apple.com/app/id1247826304"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Wolf Ride Bike Share",
+          "slug": "wolfridebikeshare",
+          "website": "https://www.stonybrook.edu/commcms/sustainability/transportation/_Wolf_Ride_Bike_Share/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=pbsc.bikes",
+            "ios": "https://itunes.apple.com/app/id557237724"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Yego",
+          "slug": "yego",
+          "website": "https://www.rideyego.com",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.getyugo.app",
+            "ios": "https://itunes.apple.com/app/id1181020675"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER",
+            "BIKE",
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Zébullo",
+          "slug": "zebullo",
+          "website": "https://zebullo.ecovelo.mobi/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.ecovelo.zebullo",
+            "ios": "https://itunes.apple.com/app/id1468907330"
+          },
+          "freefloatingVehiclesTypes": null,
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Zeus",
+          "slug": "zeus",
+          "website": "https://zeusscooters.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.zeus.app",
+            "ios": "https://itunes.apple.com/app/id1484472542"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Zig Zag",
+          "slug": "zigzag",
+          "website": "https://www.zigzagsharing.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=it.zero11.app.zigzag",
+            "ios": "https://itunes.apple.com/app/id1127766579"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Zipcar",
+          "slug": "zipcar",
+          "website": "https://www.zipcar.com/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.zc.android",
+            "ios": "https://apps.apple.com/app/id329384702"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": [
+            "CAR"
+          ]
+        },
+        {
+          "name": "Zity",
+          "slug": "zity",
+          "website": "https://zity.eco/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=es.zitycar.carsharing",
+            "ios": "https://itunes.apple.com/app/id1316126020"
+          },
+          "freefloatingVehiclesTypes": [
+            "CAR"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Zoom Sharing",
+          "slug": "zoomsharing",
+          "website": "https://zoom-sharing.de/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.zoomsharing.app",
+            "ios": "https://itunes.apple.com/app/id1497878632"
+          },
+          "freefloatingVehiclesTypes": [
+            "MOTORSCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Zoov",
+          "slug": "zoov",
+          "website": "https://www.zoov.eu/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=io.birota.zoov",
+            "ios": "https://apps.apple.com/app/id1325736026"
+          },
+          "freefloatingVehiclesTypes": [
+            "BIKE"
+          ],
+          "stationVehicleTypes": [
+            "BIKE"
+          ]
+        },
+        {
+          "name": "Zvipp",
+          "slug": "zvipp",
+          "website": "https://www.zvipp.no/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.zvipp.android",
+            "ios": "https://itunes.apple.com/app/id1462047047"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        },
+        {
+          "name": "Zwings",
+          "slug": "zwings",
+          "website": "https://www.zwings.co.uk/",
+          "app": {
+            "android": "https://play.google.com/store/apps/details?id=com.zwings.android",
+            "ios": "https://itunes.apple.com/app/id1503019815"
+          },
+          "freefloatingVehiclesTypes": [
+            "SCOOTER"
+          ],
+          "stationVehicleTypes": null
+        }
+      ]
+    }
+  }
